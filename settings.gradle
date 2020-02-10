@@ -1,0 +1,2 @@
+include ':app', ':querybuilder'
+rootProject.name='MansourEZ QueryBuilder'
