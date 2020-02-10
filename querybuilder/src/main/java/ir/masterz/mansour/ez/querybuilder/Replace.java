@@ -3,7 +3,8 @@ package ir.masterz.mansour.ez.querybuilder;
 import java.util.HashMap;
 import java.util.Map;
 
-import ir.masterz.dotamaster.db.MansourEZQueryBuilder.components.InsertValues;
+import ir.masterz.mansour.ez.querybuilder.components.InsertValues;
+
 
 public class Replace {
 

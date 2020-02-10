@@ -1,6 +1,6 @@
 package ir.masterz.mansour.ez.querybuilder;
 
-import ir.masterz.dotamaster.db.MansourEZQueryBuilder.components.From;
+import ir.masterz.mansour.ez.querybuilder.components.From;
 
 public class Select {
 

@@ -1,9 +1,9 @@
 package ir.masterz.mansour.ez.querybuilder;
 
-import ir.masterz.dotamaster.db.MansourEZQueryBuilder.components.Condition;
-import ir.masterz.dotamaster.db.MansourEZQueryBuilder.components.IntermediateCondition;
-import ir.masterz.dotamaster.db.MansourEZQueryBuilder.components.Limit;
-import ir.masterz.dotamaster.db.MansourEZQueryBuilder.components.OrderBy;
+import ir.masterz.mansour.ez.querybuilder.components.Condition;
+import ir.masterz.mansour.ez.querybuilder.components.IntermediateCondition;
+import ir.masterz.mansour.ez.querybuilder.components.Limit;
+import ir.masterz.mansour.ez.querybuilder.components.OrderBy;
 
 public class Delete {
 
@@ -37,7 +37,6 @@ public class Delete {
     public String build() {
         return str_clause;
     }
-
 
 
 }
